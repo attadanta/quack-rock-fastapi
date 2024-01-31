@@ -14,6 +14,7 @@ We want to learn how to build a REST API with Python. Let's also try to define a
 
 It would be cool to offer add-ons or stretch goals for common use-cases for those who want to explore further:
 
+ * content negotiation
  * connecting to a database
  * making HTTP calls to third-party services
  * tracing

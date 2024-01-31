@@ -1,6 +1,6 @@
 # QuackRock FastAPI
 
-We want to learn how to build a REST API with Python. Let's also try to define a meaningful REST API MVC and use it as a starting point for exercises in other languages. In other words, what should a REST API minimally do?
+We want to learn how to build a REST API with Python. Let's also try to define a meaningful REST API MVC and use it as a starting point for exercises in other languages. In other words, what should a RESTful API minimally do?
 
 * JSON I/O
 * Conventional HTTP usage
